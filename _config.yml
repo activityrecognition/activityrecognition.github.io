@@ -1,0 +1,87 @@
+url: ''
+baseurl: ''
+
+# Site settings
+title: Activity recognition
+email: contact@activityrecognition.com
+description: "Improving Senior Health Care Through Powerful A.I."
+
+
+# Team names, titles and social links
+people:
+- name: Guido Pusiol, PhD
+  pic: 1
+  position: Stanford University
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+- name: Alexandre Alahi, PhD
+  pic: 2
+  position: Stanford University
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Federico Polacov, MS
+  pic: 3
+  position: Software Engineer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Pablo Pusiol, MS
+  pic: 4
+  position: Software Engineer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Georgy Golubev, BS
+  pic: 5
+  position: Software Engineer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/jekyllrb
+  - title: facebook
+    url:
+  - title: stack-overflow
+    url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: bitbucket
+    url: http://bitbucket.org/jekyll
+  - title: github
+    url: http://github.com/jekyll
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 2000 Broadway Office 370
+  - line: Redwood City, CA 94043
+
+# Build settings
+markdown: kramdown
+permalink: pretty
